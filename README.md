@@ -13,8 +13,11 @@ The DMD conists of the following parts:
 ![admd1](https://github.com/pinballpower/alpha_dmd/assets/90598459/0c6dc4e0-b836-47f1-8b76-272ebc3c15e8)
 ![admd2](https://github.com/pinballpower/alpha_dmd/assets/90598459/03721f9e-a80c-4b05-8d05-9914e753748f)
 
-
 ## Software
 
 Software running on αDMD is [DMDReader](https://github.com/pinballpower/code_dmdreader) and [DMDReader Pico](https://github.com/pinballpower/code_dmd).
 The easist way to install and use it is to run [PinballOS](https://github.com/pinballpower/pbos).
+
+## Shopping
+
+[LED Panel 64x32](https://s.click.aliexpress.com/e/_DEx6hiH)
