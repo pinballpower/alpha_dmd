@@ -20,5 +20,10 @@ The easist way to install and use it is to run [PinballOS](https://github.com/pi
 
 ## Shopping
 
-[LED Panel 64x32 P2.5](https://s.click.aliexpress.com/e/_DEx6hiH)
-[LED Panel 128x64 P2](https://s.click.aliexpress.com/e/_DFqw2Eh)
+### LED Panels
+- [LED Panel 64x32 P2.5](https://s.click.aliexpress.com/e/_DEx6hiH)
+- [LED Panel 128x64 P2](https://s.click.aliexpress.com/e/_DFqw2Eh)
+
+### Mounting material
+
+- [Standoffs and screws](https://s.click.aliexpress.com/e/_Dc9It2H)
