@@ -1,6 +1,6 @@
-# αDMD - a replacement for classic 128x32 DMDs
+# αDMD - a replacement for classic pinball DMDs
 
-αDMD is a plug-in replacement for 128xx32 pixel DMDs in pinball machines from the 1990s up to the 2016 Spike-1 Ghostbusters.
+αDMD is a plug-in replacement for 128x32 pixel DMDs in pinball machines from the 1990s up to the 2016 Spike-1 Ghostbusters.
 
 ## Hardware
 
