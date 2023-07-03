@@ -17,6 +17,7 @@ including H channel
 187x662mm 
 
 including H channel
+
 bottom 17mm covered by wooden strip
 
 ## Stern SAM/Spike 1 metal panel
