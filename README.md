@@ -18,6 +18,10 @@ The DMD conists of the following parts:
 Software running on αDMD is [DMDReader](https://github.com/pinballpower/code_dmdreader) and [DMDReader Pico](https://github.com/pinballpower/code_dmd).
 The easist way to install and use it is to run [PinballOS](https://github.com/pinballpower/pbos).
 
+## Colorisations
+
+Check out the [DMDReader Wiki](https://github.com/pinballpower/code_dmdreader/wiki/Tested-colorisations) for information what colorisations have been tested. Please update the Wiki if you tested other colorisations.
+
 ## Shopping
 
 ### LED Panels
