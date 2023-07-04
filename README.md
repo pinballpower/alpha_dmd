@@ -20,7 +20,7 @@ The easist way to install and use it is to run [PinballOS](https://github.com/pi
 
 ## Colorisations
 
-Check out the [DMDReader Wiki](https://github.com/pinballpower/code_dmdreader/wiki/Tested-colorisations) for information what colorisations have been tested. Please update the Wiki if you tested other colorisations.
+Check out the [DMDReader Documentation](https://github.com/pinballpower/code_dmdreader/blob/main/doc/colorisations.md) for information what colorisations have been tested. Please update the Wiki if you tested other colorisations.
 
 ## Shopping
 
